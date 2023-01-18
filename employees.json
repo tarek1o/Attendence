@@ -1,0 +1,73 @@
+{
+  "employee": [
+    {
+      "username": "tarek1o",
+      "firstname": "Tarek",
+      "lastname": "Eslam",
+      "address": "Manoura",
+      "email": "tarekeslam159@gmail.com",
+      "age": 23,
+      "password": "1234",
+      "permission": "admin"
+    },
+    {
+      "username": "salah1o",
+      "firstname": "Mohamed",
+      "lastname": "Salah",
+      "address": "Manoura",
+      "email": "moSalah@gmail.com",
+      "age": 23,
+      "password": "95720",
+      "permission": "employee"
+    },
+    {
+      "username": "kahled1o",
+      "firstname": "Khaled",
+      "lastname": "Mohamed",
+      "address": "Manoura",
+      "email": "khled@gmail.com",
+      "age": 23,
+      "password": "1234",
+      "permission": "employee"
+    }
+  ],
+  "attendence": [
+    {
+      "username": "salah1o",
+      "info": [
+        {
+          "date": "10/10/2010",
+          "in": 8.3,
+          "late": 0,
+          "out": 3.3,
+          "exuce": 0
+        },
+        {
+          "date": "11/10/2010",
+          "in": 8.45,
+          "out": 3.3,
+          "late": 15,
+          "exuce": 0
+        }
+      ]
+    }
+  ],
+  "request": [
+    {
+      "username":"tarek1o",
+      "firstname": "Mohamed",
+      "lastname": "Ahmed",
+      "email": "eslam55@gmail.com",
+      "address": "cairo",
+      "age": 25
+    },
+    {
+      "username":"salah1o",
+      "firstname": "Salah",
+      "lastname": "Hamada",
+      "email": "eslamtarek519@gmail.com",
+      "address": "Aswan",
+      "age": 24
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+.btn{
+    @extend %btnplaceholder;
+}
+.btnlg{
+    
+    font-size:$btnlgfontsize;
+}
+.btnmd{
+    
+    font-size:$btnmdfontsize;
+}
+.btnsm{
+    
+    font-size:$btnsmfontsize;
+}
+
+.btnwarning{
+    background-color:$bgbgwaring;
+}
+.btnprimary{
+    background-color: $btnbgprimary;
+}
+.btninfo{
+    background-color: $btnbginfor;
+}

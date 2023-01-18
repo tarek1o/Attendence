@@ -1,0 +1,13 @@
+@use "vendors/normalize";
+
+//base
+@use "base/typography";
+
+//layout
+@use "layout/header";
+@use "layout/form";
+
+//pages
+@use "pages/home";
+@use "pages/login";
+@use "pages/regestration";
